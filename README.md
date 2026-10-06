@@ -1,4 +1,4 @@
-# Gradient-Descent
+# Gradient Descent
 
 A from-scratch implementation of the gradient descent algorithm in Python, built to demonstrate how the method converges to a function's minimum step by step.
 
